@@ -1,0 +1,104 @@
+.home {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+    background-color: rgb(32, 31, 30);
+    padding-top: 100px;
+}
+.image {
+     height: 160px;
+     width: 160px;
+    border-radius: 150px;
+}
+.heading {
+    color: white;
+    font-size: 30px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+}
+.paragraph {
+    color:antiquewhite;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+.image-logo {
+    height: 30px;
+    width: 30px;
+}
+.home-left {
+    margin-right: 50px;
+    text-align: center;
+    width: 70vw;
+}
+.navbar-style {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.home-right {
+    width: 30vw;
+    margin-left: 100px;
+}
+.services {
+    background-color: rgb(32, 31, 30);
+    background-size: cover;
+    padding: 15px;
+   
+}
+.services-sub-cont {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100vw;
+   
+   
+}
+.heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+    color: aquamarine;
+    letter-spacing: 2px;
+}
+.services-card {
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    
+}
+.card-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: medium;
+}
+.card-text {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: small;
+}
+.social-logo {
+height: 100px;
+width: 100px;
+padding: 20px;
+color: aqua;
+}
+.contact {
+    background-color: rgb(32, 31, 30);
+    background-size: cover;
+    padding: 15px;
+   
+}
+.contact-info {
+    text-align: center;
+}
+.social-logo-style {
+    height: 50px;
+    width: 50px;
+}
+
+   
